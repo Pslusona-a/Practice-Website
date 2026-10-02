@@ -2,6 +2,9 @@ body{
     background-color: plum;
     margin: 12px;
 }
+title:hover{
+    "text";
+}
 #d{
     background-color: cornflowerblue;
     border: 2px solid black;
@@ -21,7 +24,7 @@ div { li {
 }
 }
 ol>li{
-    color: green;
+    color: red;
 }
 li+li{
     border: dotted 3px;
